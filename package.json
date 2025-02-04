@@ -1,0 +1,15 @@
+{
+  "name": "furnixar",
+  "version": "1.0.0",
+  "description": "provide the template for the ui of the online furniture application",
+  "keywords": [
+    "npm"
+  ],
+  "license": "MIT",
+  "author": "Shivam Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
