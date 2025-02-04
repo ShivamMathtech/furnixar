@@ -77,3 +77,56 @@
   bottom: 10px;
   left: 20px;
 }
+
+.new-product-banner {
+  height: 300px;
+}
+.new-item-card-banner {
+  height: 450px;
+}
+.new-img {
+  height: 300px;
+  position: relative;
+}
+.new-img img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.badge-1 {
+  position: absolute;
+  height: 25px;
+  width: 70px;
+  border-radius: 10px;
+  background-color: #bb976d;
+  top: 10px;
+  left: 20px;
+}
+.badge-1 small {
+  font-size: 12px;
+}
+.why-choose-container {
+  height: 100vh;
+  background-image: url("../img/hh.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.overlay-2 {
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 100%;
+}
+.thumbs-logo {
+  height: 100px;
+  width: 100px;
+}
+.thumbs-logo img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.card-why {
+  height: 250px;
+}
+.feature-product {
+  min-height: 100vh;
+}
